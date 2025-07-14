@@ -1,2 +1,2 @@
-# TitanAI-v1
-AI-Powered Assistant with Image Gen, Code Debugger, Planner &amp; More
+# TitanAI v1
+An AI-powered assistant with image generation, code debugging, OCR, translation, and motivational quotes.
